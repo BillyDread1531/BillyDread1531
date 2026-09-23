@@ -1,21 +1,21 @@
 # Billy Anderson
 
-Estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala.
+**Ingeniería en Ciencias y Sistemas | Backend | DevOps | Cloud**
 
-Me interesa el desarrollo de software, especialmente backend, arquitectura de aplicaciones, microservicios, DevOps y automatización.
+Estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala. Me interesa el desarrollo de software, especialmente backend, arquitectura de aplicaciones, microservicios, DevOps y automatización.
 
-Actualmente trabajo en proyectos académicos y personales utilizando diferentes tecnologías de desarrollo e infraestructura.
+He trabajado en proyectos académicos y proyectos reales utilizando diferentes tecnologías de desarrollo, bases de datos e infraestructura.
 
 ## Tecnologías
 
 **Lenguajes:**
-Python · JavaScript · TypeScript · Java · C · C++ · C# · PHP · SQL
+Python · JavaScript · TypeScript · Java · C · C++ · C# · PHP · SQL · Bash
 
 **Backend:**
-Node.js · Express · NestJS · Spring Boot · Flask · REST · gRPC
+Node.js · Express · NestJS · Spring Boot · Flask · REST APIs · gRPC
 
 **Frontend:**
-React · HTML · CSS · JavaScript
+React · HTML · CSS
 
 **Bases de datos:**
 MySQL · PostgreSQL · MongoDB · Oracle
@@ -23,46 +23,27 @@ MySQL · PostgreSQL · MongoDB · Oracle
 **DevOps / Cloud:**
 Docker · Kubernetes · Helm · GitHub Actions · ArgoCD · Argo Rollouts · Terraform · GitOps
 
-**Mensajería y seguridad:**
+**Mensajería / Seguridad:**
 RabbitMQ · Kafka · Trivy · Cosign · Kyverno · Sealed Secrets
 
 ## Proyectos destacados
-
-### Plataforma de servicios bancarios
-
-Arquitectura de microservicios para la gestión de clientes, cuentas, pagos, transacciones y notificaciones.
-
-Trabajo con comunicación asíncrona, Docker, Kubernetes, API Gateway y CI/CD.
-
-**Tecnologías:** TypeScript · NestJS · RabbitMQ · Docker · Kubernetes
-
-### GitOps y despliegue progresivo
-
-Implementación de un flujo GitOps utilizando repositorios separados para aplicación y configuración, con ArgoCD y Argo Rollouts para despliegues progresivos.
-
-Incluye automatización mediante GitHub Actions y controles de seguridad para la cadena de suministro.
-
-**Tecnologías:** GitHub Actions · Docker · Kubernetes · Helm · ArgoCD · Argo Rollouts · Terraform · Trivy · Cosign · Kyverno
 
 ### ABC Business Manager
 
 Sistema de gestión desarrollado para un negocio real, utilizado para administrar ventas, pedidos, inventario y producción.
 
-También he participado en su mantenimiento y evolución de acuerdo con las necesidades del negocio.
+Además del desarrollo, he participado en el mantenimiento y evolución del sistema de acuerdo con las necesidades del negocio.
 
 **Tecnologías:** Python · Flask · MySQL · HTML · CSS · JavaScript
 
-### COMPI2
+### Plataforma de servicios bancarios
 
-Editor de código desarrollado como proyecto académico.
+Proyecto académico basado en una arquitectura de microservicios para la gestión de clientes, cuentas, pagos, transacciones y notificaciones.
 
-**Tecnologías:** C · GTK4 · GtkSourceView · Git
+Incluye comunicación asíncrona, API Gateway, contenedores, Kubernetes y procesos de CI/CD.
 
-## En qué estoy trabajando
+**Tecnologías:** TypeScript · NestJS · RabbitMQ · Docker · Kubernetes
 
-Actualmente continúo desarrollando proyectos relacionados con ingeniería de software, infraestructura, automatización y tecnologías cloud mientras avanzo en mi formación como Ingeniero en Ciencias y Sistemas.
+### GitOps y despliegue progresivo
 
-## Contacto
-
-* GitHub: [@BillyDread1531](https://github.com/BillyDread1531)
-* Email: [billy.boror8@gmail.com](mailto:billy.boror8@gmail.com)
+Implementación de un flujo GitOps con repositorios separados para
